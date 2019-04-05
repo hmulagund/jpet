@@ -10,7 +10,11 @@ node {
   }
   stage ('unit testing')
   {
-      echo "unit testing conducting"
+      echo "unit testing conducting" 
+  }
+  stage('1st complete')
+  {
+      echo "1st time"
   }
 }  
   
