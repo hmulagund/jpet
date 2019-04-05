@@ -14,7 +14,7 @@ node {
   }
   stage('1st complete')
   {
-      echo "1st time"
+      echo "1st time hello world!"
   }
 }  
   
